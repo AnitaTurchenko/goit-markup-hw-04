@@ -242,6 +242,7 @@ header .logo {
   align-items: center;
   height: 112px;
   margin-bottom: 8px;
+  border-radius: 4px;
 }
 
 .benefit-list {
